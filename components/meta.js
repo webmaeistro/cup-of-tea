@@ -1,10 +1,10 @@
-import Head from 'next/head'
+import Head from "next/head";
 const MetaGenerator = ({
   title,
-  type = 'website',
+  type = "website",
   description,
   mediaUrl,
-  siteName = 'A cup of Tea',
+  siteName = "A cup of Tea",
 }) => {
   //@TODO add OG:URL
   return (
@@ -32,7 +32,7 @@ const MetaGenerator = ({
         </>
       )}
     </Head>
-  )
-}
+  );
+};
 
-export default MetaGenerator
+export default MetaGenerator;
