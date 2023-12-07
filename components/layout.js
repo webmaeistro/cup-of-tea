@@ -57,7 +57,7 @@ const Layout = ({ tint = "black", children, hideFooter = false }) => {
                   />
                 </g>
               </svg>
-              eCommerce by Crystallize
+              site by Martin Andersen
             </a>
           </Footer>
         )}

@@ -4,7 +4,7 @@ const MetaGenerator = ({
   type = 'website',
   description,
   mediaUrl,
-  siteName = 'Voyage',
+  siteName = 'A cup of Tea',
 }) => {
   //@TODO add OG:URL
   return (
