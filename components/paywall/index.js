@@ -62,7 +62,7 @@ export default function Paywall() {
         <div>
           <h1>Premium content</h1>
 
-          <p>To read the full article, please login or buy a subscription.</p>
+          <p>To get full content, please login or buy a subscription.</p>
           <Actions>
             <Link href="/login">
               <Btn>Login</Btn>

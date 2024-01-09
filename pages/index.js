@@ -127,7 +127,7 @@ export async function getStaticProps() {
 export default function Home({ data }) {
   const grid = data?.data?.grid;
   const meta = {
-    description: "Great stories happen to those who can tell them",
+    description: "Norwegiankink96. Exclusie sexy content",
     type: "website",
   };
   return (

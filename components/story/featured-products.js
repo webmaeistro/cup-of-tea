@@ -40,7 +40,7 @@ const H2 = styled.h2`
 
 const FeaturedProducts = ({ products }) => (
   <Outer>
-    <H2>Featured products</H2>
+    <H2>Featured content</H2>
     <Inner>
       {products?.map((prod) => (
         <Product {...prod} key={prod?.id} />

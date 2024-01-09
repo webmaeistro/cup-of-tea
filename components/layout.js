@@ -30,7 +30,7 @@ const Layout = ({ tint = "black", children, hideFooter = false }) => {
         {children}
         {!hideFooter && (
           <Footer>
-            <a href="https://crystallize.com">
+            <a href="https://github.com/webmaeistro">
               <svg
                 width="20"
                 height="30"
